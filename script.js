@@ -325,7 +325,7 @@ document.getElementById("checkoutModal")
 .style.display = "none";
 
 const restaurantPhone =
-"919876543210";
+"917870384845";
 
 const whatsappMessage = `
 
